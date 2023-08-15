@@ -785,7 +785,7 @@ h6 {
 }
 
 #banner {
-    animation: changeBackground 40s linear infinite; /* Adjust the timing as needed */
+    animation: changeBackground 20s linear infinite; /* Adjust the timing as needed */
     /* Other styles */
 }
 #banner-content.row {
