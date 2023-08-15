@@ -1504,6 +1504,7 @@ blockquote {
 
 #landing-footer {
     clear: both;
+    background-color: #d2b356;
 }
 
 #landing-footer .row {
@@ -2176,11 +2177,13 @@ blockquote {
     #landing-footer #copyright {
         float: left;
         width: 50%;
+        color: #fff;
     }
 
     #landing-footer .social-icons {
         float: right;
         width: 50%;
+        color: #fff;
     }
 
     /*-----------------Typography-----------------*/
