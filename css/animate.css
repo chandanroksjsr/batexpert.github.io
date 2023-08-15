@@ -3263,38 +3263,48 @@
 }
 
 @keyframes changeBackground {
-  0% {
+    0%, 10% {
+        background-image: url("../images/banner-images/1.jpg");
+        background-size: 100% auto;
+    }
+    10%,15% {
+        background-image: url("../images/banner-images/1.jpg");
+        background-size: 105% auto;
+    }
+    16%, 30% {
+        background-image: url("../images/banner-images/2.jpg");
+        background-size: 100% auto;
+    }
+    30%, 35% {
+        background-image: url("../images/banner-images/2.jpg");
+        background-size: 105% auto;
+    }
+    36%, 50% {
+        background-image: url("../images/banner-images/3.jpg");
+        background-size: 100% auto;
+    }
+    50%, 55% {
+        background-image: url("../images/banner-images/3.jpg");
+        background-size: 105% auto;
+    }
+    56%, 70% {
+        background-image: url("../images/banner-images/4.jpg");
+        background-size: 100% auto;
+    }
+    70%, 75% {
+        background-image: url("../images/banner-images/4.jpg");
+        background-size: 105% auto;
+    }
+    76%, 90% {
+        background-image: url("../images/banner-images/5.jpg");
+        background-size: 100% auto;
+    }
+    90%, 95% {
+        background-image: url("../images/banner-images/5.jpg");
+        background-size: 105% auto;
+    }
+    96%, 100% {
       background-image: url("../images/banner-images/1.jpg");
+      background-size: 100% auto;
   }
-  15%{
-    background-image: url("../images/banner-images/1.jpg");
-  }
-  20% {
-      background-image: url("../images/banner-images/2.jpg");
-  }
-  35% {
-    background-image: url("../images/banner-images/2.jpg");
-  }
-  40% {
-      background-image: url("../images/banner-images/3.jpg");
-  }
-  55% {
-    background-image: url("../images/banner-images/3.jpg");
-}
-  60% {
-      background-image: url("../images/banner-images/4.jpg");
-  }
-  75% {
-    background-image: url("../images/banner-images/4.jpg");
-  }
-  80% {
-      background-image: url("../images/banner-images/5.jpg");
-  }
-  95% { 
-    background-image: url("../images/banner-images/5.jpg");
-}
-  100% {
-    background-image: url("../images/banner-images/1.jpg");
-}
-
 }
