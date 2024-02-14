@@ -57,17 +57,17 @@
 <script>
     // Replace with your shared album link
 
-    $.get("https://iotappsw-674af2603573.herokuapp.com/photosbatexpert", function(data) {
-        var i=0;
-        data.forEach(element => {
-            if(i<=8){
-                $("#gallery").append(`<a href="${element.url}" data-featherlight="image" class="col-3 wow fadeIn"
-                data-wow-delay="0.1s"><img src="${element.url}" alt="Landing Page"/></a>`)
-            }
-            i=i+1;  
-        }); 
+    // $.get("https://iotappsw-674af2603573.herokuapp.com/photosbatexpert", function(data) {
+    //     var i=0;
+    //     data.forEach(element => {
+    //         if(i<=8){
+    //             $("#gallery").append(`<a href="${element.url}" data-featherlight="image" class="col-3 wow fadeIn"
+    //             data-wow-delay="0.1s"><img src="${element.url}" alt="Landing Page"/></a>`)
+    //         }
+    //         i=i+1;  
+    //     }); 
        
-    });
+    // });
 </script>
 
 
