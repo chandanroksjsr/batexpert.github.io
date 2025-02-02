@@ -1,0 +1,392 @@
+{
+    "Basics": {
+      "category": "Basics",
+      "categoryAsset": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics.png",
+      "items": [
+        {
+          "name": "Haircut + Wash",
+          "tagline": "",
+          "originalPrice": 250,
+          "membershipPrice": 212,
+          "discountedAmount": 0,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/haircut_+_hairwash.svg",
+          "itemId": "SERV0001",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Head Shave",
+          "originalPrice": 250,
+          "membershipPrice": 212,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/headshave.svg",
+          "itemId": "SERV0025",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Kids Haircut",
+          "originalPrice": 200,
+          "membershipPrice": 170,
+          "discountedAmount": 0,
+          "tagline": "Below 5 years",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/kids_haircut.svg",
+          "itemId": "SERV0010",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Beard + Moustache Trim",
+          "originalPrice": 150,
+          "membershipPrice": 127,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/beard_+_moustach_trim.svg",
+          "itemId": "SERV0003",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Clean Shave",
+          "originalPrice": 150,
+          "membershipPrice": 127,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/clean_shave.svg",
+          "itemId": "SERV0004",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Hair Wash",
+          "originalPrice": 150,
+          "membershipPrice": 127,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/hairwash.svg",
+          "itemId": "SERV0018",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Hair Cut",
+          "originalPrice": 200,
+          "membershipPrice": 200,
+          "discountedAmount": 0,
+          "tagline": "Hair Cut",
+          "assetUrl":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/haircut.svg",
+          "itemId": "SERV0135",
+          "itemCategory": "Basics", "popular":false
+        },
+        {
+          "name": "Membership",
+          "originalPrice": 250,
+          "discountedAmount": 0,
+          "membershipPrice": 0,
+          "tagline": "15% Off On Services",
+          "assetUrl":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/basics/membership_icon.svg",
+          "itemId": "MEM0001",
+          "itemCategory": "Membership", "popular":false
+        }
+      ]
+    },
+    "Hair Treatment": {
+      "category": "Hair Treatment",
+      "categoryAsset":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment.png",
+      "items": [
+        {
+          "name": "Protein",
+          "tagline": "",
+          "originalPrice": 2500,
+          "membershipPrice": 2125,
+          "discountedAmount": 0,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/Protein.svg",
+          "itemId": "SERV0014",
+          "itemCategory": "Hair Treatment", "popular":true
+        },
+        {
+          "name": "L'oreal Straightening",
+          "originalPrice": 2500,
+          "membershipPrice": 2125,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/Loreal_Straightening.svg",
+          "itemId": "SERV0021",
+          "itemCategory": "Hair Treatment", "popular":false
+        },
+        {
+          "name": "Anti-Dry Scalp",
+          "originalPrice": 750,
+          "membershipPrice": 637,
+          "discountedAmount": 0,
+          "tagline": "Below 5 years",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/anti_dry.svg",
+          "itemId": "SERV0012",
+          "itemCategory": "Hair Treatment", "popular":false
+        },
+        {
+          "name": "Anti-Dandruff",
+          "originalPrice": 750,
+          "membershipPrice": 637,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/anti-dandruff.svg",
+          "itemId": "SERV0013",
+          "itemCategory": "Hair Treatment", "popular":true
+        },
+        {
+          "name": "Hair Spa",
+          "originalPrice": 500,
+          "membershipPrice": 425,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/hair_spa.svg",
+          "itemId": "SERV0016",
+          "itemCategory": "Hair Treatment", "popular":false
+        },
+        {
+          "name": "Anti-Hair fall",
+          "originalPrice": 750,
+          "membershipPrice": 550,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/anti-hairfall.svg",
+          "itemId": "SERV0031",
+          "itemCategory": "Hair Treatment", "popular":false
+        }
+      ]
+    },
+    "Hair Color": {
+      "category": "Hair Color",
+      "categoryAsset": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color.png",
+      "items": [
+        {
+          "name": "Head",
+          "tagline": "",
+          "originalPrice": 900,
+          "membershipPrice": 765,
+          "discountedAmount": 0,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color/head.svg",
+          "itemId": "SERV0007",
+          "itemCategory": "Hair Color", "popular":false
+        },
+        {
+          "name": "Moustache",
+          "originalPrice": 200,
+          "membershipPrice": 170,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color/moustache.svg",
+          "itemId": "SERV0027",
+          "itemCategory": "Hair Color", "popular":false
+        },
+        {
+          "name": "Beard + Moustache",
+          "originalPrice": 450,
+          "membershipPrice": 382,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color/beard_+_moustache.svg",
+          "itemId": "SERV0008",
+          "itemCategory": "Hair Color", "popular":false
+         
+        }
+      ]
+    },
+    "Mini Pamper Packages": {
+      "category": "Mini Pamper Packages",
+      "categoryAsset":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_package.png",
+      "items": [
+        {
+          "name": "Relax",
+          "tagline": "Haircut + Shave/Trim + Head/ Neck & Shoulder Massage",
+          "originalPrice": 750,
+          "discountedAmount": 150,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_packages/relax.svg",
+          "itemId": "SERV0019",
+          "itemCategory": "Mini Pamper Packages", "popular":true
+        },
+        {
+          "name": "Replenish",
+          "originalPrice": 900,
+          "discountedAmount": 200,
+          "tagline": "Haircut + Shave/Trim + De-tan",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_packages/replenish.svg",
+          "itemId": "SERV0020",
+          "itemCategory": "Mini Pamper Packages", "popular":true
+        },
+        {
+          "name": "Refresh",
+          "originalPrice": 900,
+          "discountedAmount": 200,
+          "tagline": "Haircut + Shave/Trim + Hair Spa",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_packages/refresh.svg",
+          "itemId": "SERV0022",
+          "itemCategory": "Mini Pamper Packages", "popular":false
+        },
+        {
+          "name": "Revive",
+          "originalPrice": 1150,
+          "discountedAmount": 250,
+          "tagline": "Haircut + Hair Wash + Hair Color",
+          "assetUrl":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_packages/revive.svg",
+          "itemId": "SERV0024",
+          "itemCategory": "Mini Pamper Packages", "popular":false
+        },
+        {
+          "name": "Massage",
+          "originalPrice": 350,
+          "discountedAmount": 53,
+          "tagline": "Head + Shoulder + Neck Massage",
+          "assetUrl":
+          "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/pamper_packages/massage.svg",
+          "itemId": "SERV0006",
+          "itemCategory": "Mini Pamper Packages", "popular":true
+        }
+      ]
+    },
+    "Face Care": {
+      "category": "Face Care",
+      "categoryAsset": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care.png",
+      "items": [
+        {
+          "name": "O3 Facial",
+          "tagline": "",
+          "originalPrice": 3000,
+          "membershipPrice": 2550,
+          "discountedAmount": 0,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/O3_facial.svg",
+          "itemId": "SERV0011",
+          "itemCategory": "Face Care", "popular":true
+        },
+        {
+          "name": "Gold Facial",
+          "originalPrice": 3000,
+          "membershipPrice": 2550,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Gold_facial.svg",
+          "itemId": "SERV0023",
+          "itemCategory": "Face Care", "popular":false
+        },
+        {
+          "name": "Pro-Men",
+          "originalPrice": 2200,
+          "membershipPrice": 1870,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Gold_facial.svg",
+          "itemId": "SERV0028",
+          "itemCategory": "Face Care", "popular":false
+        },
+        {
+          "name": "Signature-Whitening + Brightening",
+          "originalPrice": 1800,
+          "membershipPrice": 1530,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Whitening_and_Brightening.svg",
+          "itemId": "SERV0026",
+          "itemCategory": "Face Care", "popular":false
+        },
+        {
+          "name": "Classic Facial",
+          "originalPrice": 1000,
+          "membershipPrice": 850,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/classic_facial.svg",
+          "itemId": "SERV0017",
+          "itemCategory": "Face Care", "popular":false
+        },
+        {
+          "name": "Cleanup",
+          "originalPrice": 700,
+          "membershipPrice": 595,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Face_cleanup.svg",
+          "itemId": "SERV0009",
+          "itemCategory": "Face Care", "popular":false
+        },
+        {
+          "name": "Detan",
+          "originalPrice": 500,
+          "membershipPrice": 425,
+          "discountedAmount": 0,
+          "tagline": "",
+          "assetUrl": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/O3_facial.svg",
+          "itemId": "SERV0005",
+          "itemCategory": "Face Care", "popular":true
+        }
+      ]
+    },
+    "Super Saver": {
+      "category": "Super Saver",
+      "categoryAsset": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/super_saver.png",
+      "items": [
+        {
+          "name": "O3 Facial / Gold Facial",
+          "tagline": "Services: 3 | Validity: 5 months",
+          "originalPrice": 9000,
+          "discountedAmount": 1800,
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/O3_facial.svg",
+          "itemId": "PACK0001",
+          "itemCategory": "Super Saver", "popular":false
+        },
+        {
+          "name": "Anti-Dandruff / Anti-Dry Scalp",
+          "originalPrice": 3000,
+          "discountedAmount": 600,
+          "tagline": "Services: 4 | Validity: 6 months",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/anti_dry.svg",
+          "itemId": "PACK0003",
+          "itemCategory": "Super Saver", "popular":false
+        },
+        {
+          "name": "Face Detan",
+          "originalPrice": 2000,
+          "discountedAmount": 400,
+          "tagline": "Services: 4 | Validity: 3 months",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Face_cleanup.svg",
+          "itemId": "PACK0004",
+          "itemCategory": "Mini Pamper Packages", "popular":false
+        },
+        {
+          "name": "Hair Color",
+          "originalPrice": 3600,
+          "discountedAmount": 720,
+          "tagline": "Services: 4 | Validity: 6 months",
+          "assetUrl":
+              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color/head.svg",
+          "itemId": "PACK0005",
+          "itemCategory": "Super Saver", "popular":false
+        }
+      ]
+    }
+  }
