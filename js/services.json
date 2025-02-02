@@ -389,50 +389,5 @@
         }
       ]
     },
-    "Super Saver X": {
-      "category": "Super Saver",
-      "categoryAsset": "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/super_saver.png",
-      "items": [
-        {
-          "name": "O3 Facial / Gold Facial",
-          "tagline": "Services: 3 | Validity: 5 months",
-          "originalPrice": 9000,
-          "discountedAmount": 1800,
-          "assetUrl":
-              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/O3_facial.svg",
-          "itemId": "PACK0001",
-          "itemCategory": "Super Saver", "popular":false
-        },
-        {
-          "name": "Anti-Dandruff / Anti-Dry Scalp",
-          "originalPrice": 3000,
-          "discountedAmount": 600,
-          "tagline": "Services: 4 | Validity: 6 months",
-          "assetUrl":
-              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_treatment/anti_dry.svg",
-          "itemId": "PACK0003",
-          "itemCategory": "Super Saver", "popular":false
-        },
-        {
-          "name": "Face Detan",
-          "originalPrice": 2000,
-          "discountedAmount": 400,
-          "tagline": "Services: 4 | Validity: 3 months",
-          "assetUrl":
-              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/face_care/Face_cleanup.svg",
-          "itemId": "PACK0004",
-          "itemCategory": "Mini Pamper Packages", "popular":false
-        },
-        {
-          "name": "Hair Color",
-          "originalPrice": 3600,
-          "discountedAmount": 720,
-          "tagline": "Services: 4 | Validity: 6 months",
-          "assetUrl":
-              "https://chandanroksjsr.github.io/batexpert.github.io/js/assets/hair_color/head.svg",
-          "itemId": "PACK0005",
-          "itemCategory": "Super Saver", "popular":false
-        }
-      ]
-    }
+    
   }
