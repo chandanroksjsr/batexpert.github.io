@@ -3,9 +3,9 @@
     "tagline": "Hair + Beard Oil",
     "originalPrice": 599,
     "discountedAmount": 300,
-    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product2.png",
+    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/p1.png",
     "itemId": "PROD0221",
-    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFFFADF12"
+    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFF008013"
     
   },
   {
@@ -13,7 +13,7 @@
     "tagline": "After Shave + Face Balm",
     "originalPrice": 599,
     "discountedAmount": 300,
-    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
+    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/p2.png",
     "itemId": "PROD0223",
     "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xfffadf12"
   },{
@@ -21,23 +21,23 @@
     "tagline": "Hair + Body Gel",
     "originalPrice": 599,
     "discountedAmount": 300,
-    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
+    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/p3.png",
     "itemId": "PROD0224",
-    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFF007AFF"
+    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFF02bdf0"
   },{
     "name": "Anti-Odour",
     "tagline": "Deo Stick",
     "originalPrice": 599,
     "discountedAmount": 300,
-    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
+    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/p4.png",
     "itemId": "PROD0225",
-    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFFAF52DE"
+    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xFF62d200"
   },{
     "name": "Daily Cleanse",
     "tagline": "Shampoo + Conditioner",
     "originalPrice": 599,
     "discountedAmount": 300,
-    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
+    "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/p5.png",
     "itemId": "PROD0222",
-    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xff000000"
+    "brandName":"MUSTER", "itemCategory": "Products", "popular":false,"taglineColor":"0xffffc27c"
   }]
