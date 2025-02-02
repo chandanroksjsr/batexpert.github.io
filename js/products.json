@@ -5,7 +5,7 @@
     "discountedAmount": 300,
     "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
     "itemId": "PROD0221",
-    "itemCategory": "Products", "popular":false,"taglineColor":"0xffffffff"
+    "itemCategory": "Products", "popular":false,"taglineColor":"0xFFFADF12"
   },
   {
     "name": "Daily Fresh",
@@ -22,7 +22,7 @@
     "discountedAmount": 300,
     "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
     "itemId": "PROD0224",
-    "itemCategory": "Products", "popular":false,"taglineColor":"0xffffffff"
+    "itemCategory": "Products", "popular":false,"taglineColor":"0xFF007AFF"
   },{
     "name": "Anti-Odour",
     "tagline": "Deo Stick",
@@ -30,7 +30,7 @@
     "discountedAmount": 300,
     "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
     "itemId": "PROD0225",
-    "itemCategory": "Products", "popular":false,"taglineColor":"0xffffffff"
+    "itemCategory": "Products", "popular":false,"taglineColor":"0xFFAF52DE"
   },{
     "name": "Daily Cleanse",
     "tagline": "Shampoo + Conditioner",
@@ -38,5 +38,5 @@
     "discountedAmount": 300,
     "assetUrl":"https://chandanroksjsr.github.io/batexpert.github.io/js/assets/product.png",
     "itemId": "PROD0222",
-    "itemCategory": "Products", "popular":false,"taglineColor":"0xffffffff"
+    "itemCategory": "Products", "popular":false,"taglineColor":"0xff000000"
   }]
