@@ -388,52 +388,5 @@
           "itemCategory": "Super Saver", "popular":false
         }
       ]
-    },
-    "Products": {
-      "category": "Products",
-      "categoryAsset": "assets/menu_page/service_items/super_saver.png",
-      "items": [
-        {
-          "name": "Style Pro",
-          "tagline": "Hair + Beard Oil",
-          "originalPrice": 599,
-          "discountedAmount": 300,
-          "assetUrl":"assets/menu_page/service_items/product1.png",
-          "itemId": "PROD0221",
-          "itemCategory": "Products", "popular":false
-        },{
-          "name": "Daily Fresh",
-          "tagline": "After Shave + Face Balm",
-          "originalPrice": 599,
-          "discountedAmount": 300,
-          "assetUrl":"assets/menu_page/service_items/product2.png",
-          "itemId": "PROD0223",
-          "itemCategory": "Products", "popular":false
-        },{
-          "name": "Moisture Pro",
-          "tagline": "Hair + Body Gel",
-          "originalPrice": 599,
-          "discountedAmount": 300,
-          "assetUrl":"assets/menu_page/service_items/product3.png",
-          "itemId": "PROD0224",
-          "itemCategory": "Products", "popular":false
-        },{
-          "name": "Anti-Odour",
-          "tagline": "Deo Stick",
-          "originalPrice": 599,
-          "discountedAmount": 300,
-          "assetUrl":"assets/menu_page/service_items/product4.png",
-          "itemId": "PROD0225",
-          "itemCategory": "Products", "popular":false
-        },{
-          "name": "Daily Cleanse",
-          "tagline": "Shampoo + Conditioner",
-          "originalPrice": 599,
-          "discountedAmount": 300,
-          "assetUrl":"assets/menu_page/service_items/product5.png",
-          "itemId": "PROD0222",
-          "itemCategory": "Products", "popular":false
-        }
-      ]
     }
   }
